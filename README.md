@@ -10,10 +10,6 @@ Interactive HTML demonstrations of the proposed student and customer engagement 
 
 All people, records, fees and financial figures are fictional examples. Messages, AI and payment services are simulated. Changes stay in the visitor’s browser; there is no shared backend.
 
-## Hosting
+## To view the demo
 
-GitHub Pages serves these static files from the root of the main branch. `.nojekyll` keeps the HTML files unchanged. No installation or build is needed.
-
-## Sharing the demo
-
-Use https://chenxy128.github.io/bfg-demo/ as the link in the PDF submission. The start page links to all three use cases. Visitors do not need a GitHub account.
+Click the link here: https://chenxy128.github.io/bfg-demo/
